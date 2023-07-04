@@ -61,3 +61,8 @@ The goal of this project is to design, build and test an inspection system for d
 - Results           - Folder to store final analysis modelling results for the project.
 
 
+## Resources
+
+- Local Chapter Project [Link](https://omdena.com/chapter-challenges/ai-based-road-inspection-system-for-india/)
+- Final Presentation [Link](https://www.youtube.com/watch?app=desktop&v=DmdUbNvO-Zc)
+- Omdena Github [Link](https://github.com/OmdenaAI/bhopal-mexico-ai-road-inspection)
